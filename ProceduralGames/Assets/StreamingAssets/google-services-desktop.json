@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "493726220341",
+    "firebase_url": "https://proceduralgames-bf245.firebaseio.com",
+    "project_id": "proceduralgames-bf245",
+    "storage_bucket": "proceduralgames-bf245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493726220341:android:b1a4857e18feb103",
+        "android_client_info": {
+          "package_name": "com.ThinkTac.ProceduralGames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493726220341-o76d7dfa7utf6o3950v7tbdctogq4517.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "493726220341-o76d7dfa7utf6o3950v7tbdctogq4517.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9vumiTMRba0ky8pXymxmzxwTB1F6ahLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
